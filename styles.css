@@ -139,6 +139,7 @@
     background-color: gray;
     width: 80%; 
     margin: auto;
+    height: 500px;
     
 }
 .blog-title{
@@ -161,4 +162,33 @@
 }
 .card-title{
     margin: 20px;
+}
+.footer{
+        height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url(./asset/image/footer-bg.png),linear-gradient(rgba(0,0,0,0.9),rgb(0, 0,0));
+    background-blend-mode: overlay;
+    color: white;
+   
+    
+}
+.hr-line{
+    color: red;
+}
+.copy{
+   color: white;
+    margin: 20px;
+    text-align: center;
+}
+.all-footer{
+    background-color: black;
+}.group{
+    padding: 20px;
+}
+.blog-container-all{
+    background-color: gray;
+    width: 80%; 
+    margin: auto;
 }
