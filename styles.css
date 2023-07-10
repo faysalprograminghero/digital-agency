@@ -134,7 +134,11 @@
     display: flex;
     justify-content: center;
     gap: 20px
+
     ;
+    background-color: gray;
+    width: 80%; 
+    margin: auto;
     
 }
 .blog-title{
@@ -147,7 +151,7 @@
 }
 .blogs{
     width: 250px;
-    height: 350px;
+    height: 400px;
    box-shadow: 4px 8px 4px  gray;
     border-radius: 5px;
 }
